@@ -4,7 +4,7 @@ repo: uptime-setditjen # The name of this repository
 
 sites:
   - name: Network
-    url: https://www.zettagrid.id
+    url: https://mycloud-jkt.zettagrid.id/tenant/Org_cloud60988
   - name: Drive Sekretariat-DJPb
     url: https://drive.setditjen-djpb.net
   - name: Git Sekretariat-DJPb
@@ -15,12 +15,6 @@ sites:
     url: https://df1.setditjen-djpb.net
   - name: API (AppWrite) Sekretariat-DJPb
     url: https://appwrite.setditjen-djpb.net
-  - name: Minio Sekretariat-DJPb
-    url: https://minio.setditjen-djpb.net
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 307
   - name: Minio Console Sekretariat-DJPb
     url: https://minio-console.setditjen-djpb.net
   - name: Analytic Sekretariat-DJPb
