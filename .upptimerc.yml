@@ -63,6 +63,8 @@ sites:
     url: https://abid.setditjen-djpb.net
   - name: Abid (dev) Sekretariat-DJPb
     url: https://abid-dev.setditjen-djpb.net
+  - name: Simka (services) Sekretariat-DJPb
+    url: https://simka-services.setditjen-djpb.net
   - name: Simka (help) Sekretariat-DJPb
     url: https://simka-help.setditjen-djpb.net
   - name: Silap (Kanpus) Sekretariat-DJPb
