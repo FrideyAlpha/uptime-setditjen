@@ -1,26 +1,102 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: FrideyAlpha # Your GitHub organization or username, where this repository lives
+repo: uptime-setditjen # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Network
+    url: https://www.zettagrid.id
+  - name: Drive Sekretariat-DJPb
+    url: https://drive.setditjen-djpb.net
+  - name: Git Sekretariat-DJPb
+    url: https://git.setditjen-djpb.net
+  - name: Drone Sekretariat-DJPb
+    url: https://drone.setditjen-djpb.net
+  - name: API (DF) Sekretariat-DJPb
+    url: https://df1.setditjen-djpb.net
+  - name: API (AppWrite) Sekretariat-DJPb
+    url: https://appwrite.setditjen-djpb.net
+  - name: Minio Sekretariat-DJPb
+    url: https://minio.setditjen-djpb.net
+  - name: Minio Console Sekretariat-DJPb
+    url: https://minio-console.setditjen-djpb.net
+  - name: Analytic Sekretariat-DJPb
+    url: https://umami.setditjen-djpb.net
+  - name: SSO Sekretariat-DJPb
+    url: https://sso.setditjen-djpb.net
+  - name: WDC Sekretariat-DJPb
+    url: https://wdc.setditjen-djpb.net
+  - name: WDC Simulator Sekretariat-DJPb
+    url: https://wdcsimulator.setditjen-djpb.net
+  - name: Report 151 Sekretariat-DJPb
+    url: https://report151.setditjen-djpb.net
+  - name: Report 152 Sekretariat-DJPb
+    url: https://report152.setditjen-djpb.net
+  - name: Report 153 Sekretariat-DJPb
+    url: https://report153.setditjen-djpb.net
+  - name: Foto Services Sekretariat-DJPb
+    url: https://foto.setditjen-djpb.net
+  - name: Tableau Sekretariat-DJPb
+    url: https://tableau.setditjen-djpb.net
+  - name: Superset Sekretariat-DJPb
+    url: https://superset.setditjen-djpb.net
+  - name: Redash Sekretariat-DJPb
+    url: https://redash.setditjen-djpb.net
+  - name: Chat Sekretariat-DJPb
+    url: https://chat.setditjen-djpb.net
+  - name: Discourse Sekretariat-DJPb
+    url: https://discourse.setditjen-djpb.net
+  - name: Simka Sekretariat-DJPb
+    url: https://simka.setditjen-djpb.net
+  - name: Simka (dev) Sekretariat-DJPb
+    url: https://simka-dev.setditjen-djpb.net
+  - name: Abid Sekretariat-DJPb
+    url: https://abid.setditjen-djpb.net
+  - name: Abid (dev) Sekretariat-DJPb
+    url: https://abid-dev.setditjen-djpb.net
+  - name: Simka (help) Sekretariat-DJPb
+    url: https://simka-help.setditjen-djpb.net
+  - name: Kanwil Maluku (Tableau)
+    url: https://maluku.setditjen-djpb.net
+  - name: Silap (Kanpus) Sekretariat-DJPb
+    url: https://silap.setditjen-djpb.net
+  - name: Sipkk 2022 (Kanpus) Sekretariat-DJPb
+    url: https://sipkk2022.setditjen-djpb.net
+  - name: Sipkk 2021 (Kanpus) Sekretariat-DJPb
+    url: https://sipkk2021.setditjen-djpb.net
+  - name: Menawan Sekretariat-DJPb
+    url: https://menawan.setditjen-djpb.net
+  - name: Trust (dev) Sekretariat-DJPb
+    url: https://trustdev.setditjen-djpb.net
+  - name: Merapat Sekretariat-DJPb
+    url: https://merapat.setditjen-djpb.net
+  - name: Sipat Sekretariat-DJPb
+    url: https://sipat.setditjen-djpb.net
+  - name: Sakura Sekretariat-DJPb
+    url: https://sakura.setditjen-djpb.net
+  - name: Info (Privacy Policy & Terms and Conditions) Sekretariat-DJPb
+    url: https://info.setditjen-djpb.net
+  - name: Pivot (Abid) Sekretariat-DJPb
+    url: https://pivot.setditjen-djpb.net
+  - name: Tlearning Sekretariat-DJPb
+    url: https://tlearning.setditjen-djpb.net
+  - name: DAMS Sekretariat-DJPb
+    url: https://dams.setditjen-djpb.net
+  - name: Piska Sekretariat-DJPb
+    url: https://piska.setditjen-djpb.net
+  - name: Covid19 Monitoring Sekretariat-DJPb
+    url: https://kitc19.setditjen-djpb.net
+  - name: KPPN Lubuk Linggau
+    url: https://silampari.setditjen-djpb.net
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.setditjen-djpb.net
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://git.setditjen-djpb.net/assets/img/setditjen-192x192.png
+  name: Uptime Layanan Sekretariat DJPb
+  introTitle: "**Uptime** Layanan Sekretariat DJPb."
+  introMessage: Informasi mengenai status layanan yang disediakan oleh Sekretariat DJPb
   navbar:
     - title: Status
       href: /
