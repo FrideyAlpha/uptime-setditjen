@@ -17,6 +17,10 @@ sites:
     url: https://appwrite.setditjen-djpb.net
   - name: Minio Sekretariat-DJPb
     url: https://minio.setditjen-djpb.net
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 307
   - name: Minio Console Sekretariat-DJPb
     url: https://minio-console.setditjen-djpb.net
   - name: Analytic Sekretariat-DJPb
@@ -29,10 +33,22 @@ sites:
     url: https://wdcsimulator.setditjen-djpb.net
   - name: Report 151 Sekretariat-DJPb
     url: https://report151.setditjen-djpb.net
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name: Report 152 Sekretariat-DJPb
     url: https://report152.setditjen-djpb.net
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name: Report 153 Sekretariat-DJPb
     url: https://report153.setditjen-djpb.net
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name: Foto Services Sekretariat-DJPb
     url: https://foto.setditjen-djpb.net
   - name: Tableau Sekretariat-DJPb
@@ -55,8 +71,6 @@ sites:
     url: https://abid-dev.setditjen-djpb.net
   - name: Simka (help) Sekretariat-DJPb
     url: https://simka-help.setditjen-djpb.net
-  - name: Kanwil Maluku (Tableau)
-    url: https://maluku.setditjen-djpb.net
   - name: Silap (Kanpus) Sekretariat-DJPb
     url: https://silap.setditjen-djpb.net
   - name: Sipkk 2022 (Kanpus) Sekretariat-DJPb
@@ -72,7 +86,7 @@ sites:
   - name: Sipat Sekretariat-DJPb
     url: https://sipat.setditjen-djpb.net
   - name: Sakura Sekretariat-DJPb
-    url: https://sakura.setditjen-djpb.net
+    url: http://sakura.setditjen-djpb.net
   - name: Info (Privacy Policy & Terms and Conditions) Sekretariat-DJPb
     url: https://info.setditjen-djpb.net
   - name: Pivot (Abid) Sekretariat-DJPb
@@ -82,9 +96,11 @@ sites:
   - name: DAMS Sekretariat-DJPb
     url: https://dams.setditjen-djpb.net
   - name: Piska Sekretariat-DJPb
-    url: https://piska.setditjen-djpb.net
+    url: http://piska.setditjen-djpb.net
   - name: Covid19 Monitoring Sekretariat-DJPb
     url: https://kitc19.setditjen-djpb.net
+  - name: Kanwil Maluku (Tableau)
+    url: https://maluku.setditjen-djpb.net
   - name: KPPN Lubuk Linggau
     url: https://silampari.setditjen-djpb.net
 
@@ -94,8 +110,8 @@ status-website:
   #cname: status.setditjen-djpb.net
   baseUrl: /uptime-setditjen
   logoUrl: https://git.setditjen-djpb.net/assets/img/setditjen-192x192.png
-  name: Uptime Layanan Sekretariat DJPb
-  introTitle: "**Uptime** Layanan Sekretariat DJPb."
+  name: Sekretariat DJPb
+  introTitle: "**Status** Layanan Sekretariat DJPb."
   introMessage: Informasi mengenai status layanan yang disediakan oleh Sekretariat DJPb
   navbar:
     - title: Status
