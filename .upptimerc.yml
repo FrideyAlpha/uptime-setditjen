@@ -32,7 +32,7 @@ sites:
       - 201
       - 404
   - name: Report 152 Sekretariat-DJPb
-    url: https://report152.setditjen-djpb.net
+    url: http://report152.setditjen-djpb.net
     expectedStatusCodes:
       - 200
       - 201
