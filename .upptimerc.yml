@@ -97,7 +97,7 @@ sites:
     url: https://kitc19.setditjen-djpb.net
   - name: Kanwil Maluku (Tableau)
     url: https://maluku.setditjen-djpb.net
-  - name: KPPN Lubuk Linggau
+  - name: KPPN Lubuk Linggau (Silampari)
     url: https://silampari.setditjen-djpb.net
 
 status-website:
