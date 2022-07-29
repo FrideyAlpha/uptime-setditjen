@@ -117,7 +117,7 @@ status-website:
       
 i18n:
   allSystemsOperational: All Services Operational
-  footer: [Status Page](https://status.setditjen-djpb.net) powered by [Upptime](https://upptime.js.org)
+  footer: Page powered by [Upptime](https://upptime.js.org)
   
 workflowSchedule:
   graphs: "0 0 * * *"
