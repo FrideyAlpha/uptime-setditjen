@@ -108,8 +108,8 @@ status-website:
   logoUrl: https://git.setditjen-djpb.net/assets/img/setditjen-192x192.png
   name: Sekretariat DJPb
   favicon: https://git.setditjen-djpb.net/assets/img/favicon.png
-  introTitle: "**Status** Layanan Sekretariat DJPb."
-  introMessage: Informasi mengenai status layanan yang disediakan oleh Sekretariat DJPb
+  #introTitle: "**Status** Layanan Sekretariat DJPb."
+  #introMessage: Informasi mengenai status layanan yang disediakan oleh Sekretariat DJPb
   themeUrl: https://jsdelivr.icloudnative.io/gh/frideyalpha/uptime-setditjen/assets/custom-theme.css
   navbar:
     - title: Support
