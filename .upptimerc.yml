@@ -110,7 +110,7 @@ status-website:
   favicon: https://git.setditjen-djpb.net/assets/img/favicon.png
   introTitle: "**Status** Layanan Sekretariat DJPb."
   introMessage: Informasi mengenai status layanan yang disediakan oleh Sekretariat DJPb
-  themeUrl: https://status.setditjen-djpb.net/custom-theme.css
+  themeUrl: https://jsdelivr.icloudnative.io/gh/frideyalpha/uptime-setditjen/assets/my-custom-theme.css
   navbar:
     - title: Support
       href: https://chat.setditjen-djpb.net
