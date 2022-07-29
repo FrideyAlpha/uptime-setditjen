@@ -17,6 +17,22 @@ sites:
     url: https://appwrite.setditjen-djpb.net
   - name: Minio Console Sekretariat-DJPb
     url: https://minio-console.setditjen-djpb.net
+   - name: Minio 151
+    check: "tcp-ping"
+    url: 172.16.2.151
+    port: 9000
+  - name: Minio 157
+    check: "tcp-ping"
+    url: 172.16.2.157
+    port: 9000
+   - name: Minio 158
+    check: "tcp-ping"
+    url: 172.16.2.158
+    port: 9000
+  - name: Minio 159
+    check: "tcp-ping"
+    url: 172.16.2.159
+    port: 9000
   - name: Analytic Sekretariat-DJPb
     url: https://umami.setditjen-djpb.net
   - name: SSO Sekretariat-DJPb
