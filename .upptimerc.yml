@@ -115,7 +115,9 @@ sites:
     url: https://maluku.setditjen-djpb.net
   - name: KPPN Lubuk Linggau (Silampari)
     url: https://silampari.setditjen-djpb.net
-
+  - name: Project Management Sekretariat-DJPb
+    url: https://project.setditjen-djpb.net
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
