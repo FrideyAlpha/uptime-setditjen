@@ -384,18 +384,20 @@
     "url": "https://tableau.setditjen-djpb.net",
     "icon": "https://favicons.githubusercontent.com/tableau.setditjen-djpb.net",
     "slug": "tableau-sekretariat-dj-pb",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 941,
     "timeDay": 223,
     "timeWeek": 252,
     "timeMonth": 941,
     "timeYear": 941,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-19": 2
+    }
   },
   {
     "name": "Superset Sekretariat-DJPb",
