@@ -107,6 +107,11 @@ sites:
     url: https://tlearning.setditjen-djpb.net
   - name: DAMS Sekretariat-DJPb
     url: https://dams.setditjen-djpb.net
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+      - 302
   - name: Piska Sekretariat-DJPb
     url: http://piska.setditjen-djpb.net
   - name: Covid19 Monitoring Sekretariat-DJPb
