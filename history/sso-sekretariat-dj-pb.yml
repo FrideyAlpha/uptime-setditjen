@@ -1,7 +1,7 @@
 url: https://sso.setditjen-djpb.net
-status: up
-code: 200
-responseTime: 167
-lastUpdated: 2022-11-15T23:10:01.310Z
+status: down
+code: 502
+responseTime: 1494
+lastUpdated: 2022-11-16T19:39:39.253Z
 startTime: Thu Jul 28 2022 22:00:09 GMT+0700 (Western Indonesia Time)
 generator: Upptime <https://github.com/upptime/upptime>
