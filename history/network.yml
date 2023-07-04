@@ -1,7 +1,7 @@
 url: https://mycloud-jkt.zettagrid.id/tenant/Org_cloud60988
-status: down
-code: 503
-responseTime: 5164
-lastUpdated: 2023-07-04T02:43:10.983Z
+status: up
+code: 200
+responseTime: 378
+lastUpdated: 2023-07-04T03:20:30.329Z
 startTime: Thu Jul 28 2022 21:59:39 GMT+0700 (Western Indonesia Time)
 generator: Upptime <https://github.com/upptime/upptime>
